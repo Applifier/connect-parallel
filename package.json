@@ -2,7 +2,8 @@
   "name": "connect-parallel"
   , "version": "0.0.1"
   , "description": "Connect middleware that makes possible to run asynchronous middlewares parallel"
-  , "keywords": []
+  , "keywords": ["connect"]
+  , "repository": "git://github.com/Applifier/connect-parallel.git"
   , "author": "Jaakko Lukkari <opensource@applifier.com>"
   , "devDependencies" : { "nodeunit" : "0.5.5" }
   , "dependencies": {}
