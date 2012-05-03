@@ -1,4 +1,6 @@
 .DS_Store
+lib-cov
+testing
 node_modules
-*.sock
-.idea
+lib-cov
+coverage.html
