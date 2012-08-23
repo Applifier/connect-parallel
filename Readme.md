@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/Applifier/connect-parallel.png)](http://travis-ci.org/Applifier/connect-parallel)
 
 # connect-parallel
 
