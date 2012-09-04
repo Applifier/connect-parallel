@@ -1,6 +1,6 @@
 {
   "name": "connect-parallel"
-  , "version": "0.0.2"
+  , "version": "0.0.3"
   , "description": "Connect middleware that makes possible to run asynchronous middlewares parallel"
   , "keywords": ["connect"]
   , "repository": "git://github.com/Applifier/connect-parallel.git"
